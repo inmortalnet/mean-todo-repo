@@ -12,6 +12,6 @@ Run mongod service, at terminal type:
 
 `$ mongod`
 
-Start node server:
+At a second terminal start node server:
 
 `$ node server.js`
