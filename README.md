@@ -1,3 +1,7 @@
+# MEAN todo app #
+
+This is a sample app based of the MEAN stack framework.
+
 # Prerequisites #
 
 Install mongodb.
